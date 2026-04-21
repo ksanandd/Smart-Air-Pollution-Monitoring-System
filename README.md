@@ -82,13 +82,13 @@ End Loop
     - Gas Value: ~156 → Moderate pollution level
     - Light: Bright → High light intensity
     - LED/Buzzer: ON → Indicates pollution threshold exceeded
-    - (Shown in output image on page 5)
+    - (Shown in output image on page 5 in pdf of this repo)
 
 - Case 2: Temperature & Humidity
     - Temperature: 33.6°C → Warm environment
     - Humidity: 28% → Dry conditions
     - LED: ON → System active / alert state
-    - (Shown in output image on page 6)
+    - (Shown in output image on page 6 in pdf of this repo)
 
 ---
 
