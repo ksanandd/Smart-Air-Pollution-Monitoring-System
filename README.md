@@ -111,9 +111,9 @@ End Loop
 
 ### Team Members
 
-Anand (PES1UG24AM341)
-Amar (PES1UG24AM340)
-Basawaraj Panchal (PES1UG24AM350)
+Anand (PES1UG24AM341),
+Amar (PES1UG24AM340),
+Basawaraj Panchal (PES1UG24AM350).
 
 ---
 
